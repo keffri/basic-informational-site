@@ -2,3 +2,16 @@ body {
     background-color: #202020;
     color: #ffffffD7
 }
+
+a:link, a:visited {
+    color: #ffffffD7;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    list-style: none;
+}
